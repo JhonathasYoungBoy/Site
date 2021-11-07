@@ -1,0 +1,8 @@
+/* O "*" serve para selecionar todos os itens da página*/
+*{ 
+/* Nosso navegador já possui margin e padding padrões, por isso colocamos 0 para "resetar"*/
+margin: 0; 
+padding: 0;
+box-sizing: border-box;
+font-family: "Open Sans";
+}

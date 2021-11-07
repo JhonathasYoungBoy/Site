@@ -1,7 +1,10 @@
 <!DOCTYPE html>
 <html>
 <head>
+<link href="estilo/fontawesome.min.css" rel="stylesheet"> <!--load all styles -->
     <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- Responsabilidade, fazendo que sirva para todas as telas -->
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@700&display=swap" rel="stylesheet">
+    <link href="estilo/style.css" rel="stylesheet"/> <!-- stylesheet quer dizer que estaremos utilizando folha de estilo (para estilização do site)-->
     <meta charset="UTF-8"> <!-- Evita que haja conflito de caracteres especiais na página-->
     <meta name="description" content="Descrição do meu website"> <!-- Google saber nossa descrição do nosso site-->
     <meta name="keywords" content="palavras-chave,do,meu,site"> <!-- Serve para escolher palavras chave do meu site-->
@@ -80,7 +83,7 @@
                 etiam vel dui nibh aliquam blandit arcu pretium condimentum duis at fusce aptent, rhoncus in pharetra enim nisi proin dolor quisque porta vehicula. </p>
         </div><!-- box-especialidade--> 
         <div class="box-especialidade"> 
-                <h3>Iconi2</h3>
+                <h3<i class="fa fa-html5" aria-hidden="true"></i></h3>
                 <h3>HTML5</h3>
                 Lorem ipsum lacinia at dictumst volutpat id libero semper commodo quis litora, tellus quisque id faucibus erat phasellus vestibulum hendrerit metus aenean. 
                 tellus lorem diam nisi vel aliquam maecenas class massa molestie, dictum conubia ipsum feugiat vivamus dui aenean vitae consectetur, urna platea vivamus sed id consequat nisl urna. 
